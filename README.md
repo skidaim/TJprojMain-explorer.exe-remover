@@ -8,8 +8,9 @@ This simple batch script will get rid of the annoying TJprojMain malware, also k
 Simple showcase: 
 
 https://user-images.githubusercontent.com/66956355/125113378-44be6280-e0f1-11eb-8ff5-5d9f03f426b7.mp4
-
-It basically enters a loop of ending the task and then deleting the files immediately, before they manage to open again or be restored by their "friends"
+<br />
+The virus drops the fake system files at C:\Windows\Resources and C:\Windows\Resources\Themes
+All you need to do is enter a loop of ending the task and then deleting the files immediately, before they manage to open again or be restored by their "friends"
 Works for C:, D: and E: windows drive letters
 <br />
 <br />
