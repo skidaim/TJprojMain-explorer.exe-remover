@@ -11,13 +11,13 @@ https://user-images.githubusercontent.com/66956355/125113378-44be6280-e0f1-11eb-
 
 <br />
 The virus drops the fake system files at C:\Windows\Resources and C:\Windows\Resources\Themes <br />
-All we need to do is enter a loop of ending the task and then deleting the files immediately, before they manage to open again or be restored by their "friends" <br />
-When we make sure the files are not in the system anymore, the program finishes <br />
-Works for C:, D: and E: windows drive letters
+All we need to do is enter a loop of ending the task and then deleting the files immediately, <br /> before they manage to open again or be restored by their "friends". <br />
+When we make sure the files are not in the system anymore, the program finishes. <br />
+Works for C:, D: and E: windows drive letters.
 <br />
 <br />
 <br />
-Fyi, if you have an infected file you need to recover, you can easily get the original file with a help of a tool called byte_stinker (https://github.com/jack51706/byte_stinker)
+Fyi, if you have an infected file you need to recover, you can easily get the original file with a help of a tool called byte_stinker. (https://github.com/jack51706/byte_stinker)
 
 Simple video so you can see how it works:
 
