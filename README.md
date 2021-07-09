@@ -11,7 +11,7 @@ https://user-images.githubusercontent.com/66956355/125113378-44be6280-e0f1-11eb-
 
 <br />
 The virus drops the fake system files at C:\Windows\Resources and C:\Windows\Resources\Themes <br />
-All you need to do is enter a loop of ending the task and then deleting the files immediately, before they manage to open again or be restored by their "friends" <br />
+All we need to do is enter a loop of ending the task and then deleting the files immediately, before they manage to open again or be restored by their "friends" <br />
 Works for C:, D: and E: windows drive letters
 <br />
 <br />
