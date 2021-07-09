@@ -11,9 +11,9 @@ https://user-images.githubusercontent.com/66956355/125113378-44be6280-e0f1-11eb-
 
 It basically enters a loop of ending the task and then deleting the files immediately, before they manage to open again or be restored by their "friends"
 Works for C:, D: and E: windows drive letters
-
-
-
+<br />
+<br />
+<br />
 Fyi, if you have an infected file you need to recover, you can easily get the original file with a help of a tool called byte_stinker (https://github.com/jack51706/byte_stinker)
 
 Simple video so you can see how it works:
