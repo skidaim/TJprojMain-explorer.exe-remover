@@ -1,6 +1,6 @@
 # TJprojMain-explorer.exe-remover
 
-This simple batch script will get rid of the annoying TJprojMain malware, which infects all your exe files to spread and disguises itself as common system files
+This simple batch script will get rid of the annoying TJprojMain malware, also known as fake explorer.exe/svchost.exe, which infects all your exe files to spread and disguises itself as common system files
 
 Simple showcase: 
 
