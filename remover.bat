@@ -1,4 +1,5 @@
 @echo off
+title TJprojMain remover
 echo Starting soon, don't touch anything
 timeout 3 > NUL
 cls
