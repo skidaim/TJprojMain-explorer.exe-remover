@@ -86,9 +86,6 @@ if exist E:\Windows\Resources\Themes\explorer.exe goto DeleteE
 if exist E:\Windows\Resources\Themes\icsys.icn.exe goto DeleteE
 
 :end
-reg delete "HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\Shell\BagMRU" /f
-reg delete "HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags" /f
-reg delete "HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\Shell\MuiCache" /f
 cls
 echo Done! explorer.exe (TJprojMain) is now removed
 PAUSE
