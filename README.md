@@ -18,6 +18,7 @@ Works for C:, D: and E: windows drive letters.
 <br />
 <br />
 Fyi, if you have an infected file you need to recover, you can easily get the original file with a help of a tool called byte_stinker. (https://github.com/jack51706/byte_stinker)
+byte stinker binary: https://github.com/skidaim/byte_stinker/releases/download/1.0/byte_stinker.exe
 
 Simple video so you can see how it works:
 
